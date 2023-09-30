@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="Task 5 and 6 done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="Output corrected" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,7 +248,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696116226267</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task 5 and 6 done">
+      <option name="closed" value="true" />
+      <created>1696117638402</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696117638402</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Output corrected">
+      <option name="closed" value="true" />
+      <created>1696117974097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696117974097</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +283,8 @@
     <MESSAGE value="Task 3 done" />
     <MESSAGE value="Task 4 done" />
     <MESSAGE value="Task 5 and 6 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 5 and 6 done" />
+    <MESSAGE value="Output corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="Output corrected" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
