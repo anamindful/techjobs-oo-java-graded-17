@@ -23,6 +23,24 @@ public class JobTest {
     }
 
     @Test
+    public void testJobsForEqualityWithSameId(){
+        Job jobA = new Job
+                ("Product tester",
+                        new Employer("ACME"),
+                        new Location("Desert"),
+                        new PositionType("Quality control"),
+                        new CoreCompetency("Persistence"));
+
+        Job jobB = new Job
+                ("Product tester",
+                        new Employer("ACME"),
+                        new Location("Desert"),
+                        new PositionType("Quality control"),
+                        new CoreCompetency("Persistence"));
+
+    }
+
+    @Test
     public void testJobConstructorSetsAllFields() {
         // declare + initialize new job object
         Job job = new Job
